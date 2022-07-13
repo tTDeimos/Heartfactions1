@@ -1,2 +1,1 @@
-# Heartfactions1
-a kag mod server repository 
+# Heartfactions version of Yusuf/Aether
